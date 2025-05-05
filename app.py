@@ -1,4 +1,4 @@
-# appp.py ...
+# appp.py
 
 import streamlit as st
 import joblib
